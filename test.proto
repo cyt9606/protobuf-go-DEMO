@@ -1,0 +1,12 @@
+syntax="proto3";
+package example;
+
+message TestMess{
+  required string ID=1;
+  required string Time=2;
+  optional int32 timestamp=3;
+  enum Ts{
+    x=0;
+    y=1;
+  }
+}

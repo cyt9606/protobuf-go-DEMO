@@ -1,0 +1,17 @@
+syntax = "proto3";
+package example;
+option go_package="./example";
+
+message Person {
+    string Name = 1;
+    int32 Age = 2;
+    string From = 3;
+    Result result=4;
+
+
+}
+message Result{
+    string url=1;
+    string title=2;
+    repeated string spe=3;
+}
