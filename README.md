@@ -1,11 +1,11 @@
 ## protobuf go DEMO
 
-旧版本，使用MessageV1，已弃用Deprecated
-https://github.com/golang/protobuf
+旧版本，使用MessageV1，已弃用Deprecated  
+https://github.com/golang/protobuf  
 https://pkg.go.dev/github.com/golang/protobuf
 
-新版，使用MessageV2
-https://github.com/protocolbuffers/protobuf-go
+新版，使用MessageV2  
+https://github.com/protocolbuffers/protobuf-go  
 https://pkg.go.dev/google.golang.org/protobuf
 
 protoc编译器下载 https://github.com/protocolbuffers/protobuf/releases/latest
