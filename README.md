@@ -1,5 +1,5 @@
 ## protobuf go DEMO
-
+google protobuf有两个版本，分为v1和v2
 旧版本，使用MessageV1，已弃用Deprecated  
 https://github.com/golang/protobuf  
 https://pkg.go.dev/github.com/golang/protobuf
